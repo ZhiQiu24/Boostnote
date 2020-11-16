@@ -1,4 +1,4 @@
-> [We've launched desktop and mobile app of the new Boost Note now.](https://github.com/BoostIO/BoostNote.next)
+> [We'vvve launched desktop and mobile app of the new Boost Note now.](https://github.com/BoostIO/BoostNote.next)
 
 > ### [Boost Note for Teams](https://boosthub.io/)
 >
